@@ -1,4 +1,5 @@
-import React from 'react'
+import { DirectionDataContext } from '@/context/DirectionDataContext';
+import React, { useContext } from 'react'
 
 function DistanceTime() {
     const {directionData, setDirectionData}
@@ -15,5 +16,4 @@ function DistanceTime() {
     </div>
   )
 }
-
-export default DistanceTime
+export default DistanceTime;

@@ -5,7 +5,7 @@ function MapBoxRoute(props:any) {
 
   return (
     <Source type='geojson' data={{ type: 'Feature', geometry: 
-{ type: 'LineString', coordinates: props.coordinates } }}>
+{ type: 'LineString', coordinates: props.coordinates },    properties: {} }}>
         <Layer
           type="line"
           layout={{ 'line-join': 'round', 'line-cap': 'square' }}
