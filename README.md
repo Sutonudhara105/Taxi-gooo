@@ -1,3 +1,6 @@
+Welcome to the Taxi Booking System app, where their contributions shine through a tech stack encompassing Next.js, TypeScript, Stripe, Clerk, and Tailwind CSS. This app delivers a comprehensive taxi booking experience, with features such as location selection, a range of car types with pricing details, real-time location tracking powered by Mapbox, and a flexible payment system supporting Mastercard, Visa, Google Pay, Apple Pay, cash, and card payments. The user-friendly authentication system allows users to sign up and sign in using various methods, and the user profile section offers features like password management, device tracking, and profile image management. This project prioritizes user security and convenience, even offering the option to delete accounts for added peace of mind. Explore their code and join the effort to enhance the taxi booking experience!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
